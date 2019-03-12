@@ -1,0 +1,7 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/react_project_test.rar
+/react-structure-template.rar
+/react-structure-template-master.zip
+/react-structure-template-redux-form2.zip

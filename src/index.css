@@ -1,0 +1,44 @@
+li{
+	list-style: none;
+}
+.header {
+  background-color: #5F9EA0;
+  display: flex;
+}
+.logo{
+	width: 25%;
+}
+.btnmenu{
+	width: 50%; 
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+.btnsmenu{
+	width: 20%;
+	background-color: #7B68EE;
+}
+.login{
+	width: 25%;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-direction: column;
+}
+.loginform{
+	width: 50%;
+}
+.a{
+	text-decoration: none;
+	color: white;
+}
+.a:hover{
+	text-decoration: none;
+	color: white;
+}
+.textcenter{
+	text-align: center;
+}
+.btncenter{
+	
+}
